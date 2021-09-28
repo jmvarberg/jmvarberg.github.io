@@ -1,5 +1,20 @@
 ---
-title: "Personal Website"
----
+title: "Joe Varberg"
+image: "joe_2.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/joe-varberg-8855a991/"
+  - label: Twitter
+    url: "https://twitter.com/jmvarberg"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=OW7nRcIAAAAJ&hl=en&authuser=1"
+  - label: KC RiBS
+    url: "https://www.kcresearchers.org"
+  - label: Email
+    url: "mailto:jmvarberg@gmail.com"
+output:
 
-Hello, World!
+  postcards::jolla
+---
+ 
+I am a interdisciplinary cell biologist using the powers of yeast genetics and advanced microscopy techniques to study the structure and organization of the nucleus. Currently, I live in the Kansas City metro where I am a Postdoctoral Research Associate at the Stowers Institute for Medical Research.

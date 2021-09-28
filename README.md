@@ -1,1 +1,0 @@
-# jmvarberg.github.io
