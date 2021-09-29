@@ -17,7 +17,7 @@ output:
   postcards::jolla
 ---
  
-I am an interdisciplinary cell biologist studying the structure and organization of the nucleus using yeast genetics and advanced microscopy techniques. I live in the Kansas City metro where I am a Postdoctoral Research Associate at the Stowers Institute for Medical Research. I’m passionate about data visualization, scientific communication and building the scientific research community in the Kansas City region. When I’m not imaging on the microscope or wrangling data in R, I enjoy biking, golfing, playing guitar and hunting for the freshest coffee beans in KC.
+I am an interdisciplinary cell biologist studying the structure and organization of the nucleus using yeast genetics and advanced microscopy techniques. I live in the Kansas City metro where I am a Postdoctoral Research Associate at the Stowers Institute for Medical Research. I’m passionate about open science, data visualization, scientific communication and building the scientific research community in the Kansas City region. When I’m not imaging on the microscope or wrangling data in R, I enjoy biking, golfing, playing guitar and hunting for the freshest coffee beans in KC.
 
 Currently:
 
