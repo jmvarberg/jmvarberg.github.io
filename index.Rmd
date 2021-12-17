@@ -21,11 +21,15 @@ I am an interdisciplinary cell biologist studying the structure and organization
 
 Currently:
 
-Listening to - [Silk Sonic - Fly as Me](https://www.youtube.com/watch?v=2x2ZbherL-8)
+Listening to - [Tom Misch & Yussef Dayes - Nightrider (feat. Freddie Gibbs)](https://www.youtube.com/watch?v=ImllpvDwbQ8)
 
-Reading - [Stone Mattress - Margaret Atwood](https://www.penguinrandomhouse.com/books/237875/stone-mattress-by-margaret-atwood/)
+Reading - [Martin Dressler, by Steven Millhauser](https://www.penguinrandomhouse.com/books/114919/martin-dressler-by-steven-millhauser/)
 
-Drinking - [Verve Coffee Roasters - Bronson](https://www.vervecoffee.com/products/bronson-french-roast)
+Drinking - [The Roasterie - Super Tuscan Espresso](https://theroasterie.com/products/super-tuscan-espresso)
 
 
 ![Structured illumination microscopy image of human retinal epithelial cells (RPE1) visualizing actin (grey/white), DNA (cyan), nucleoli (magenta), and nuclear pore complexes (yellow). ](./rep1_sim_03_SIR_ALX_PRJ_edits_merged.tif){#id .class width=100% height=100%}
+
+
+![Mitotic cell division in fission yeast S. pombe, visualizaing spindle pole bodies (magenta) and spindle microtubules (yellow). ](./atb2-mch_sad1-GFP_wt.mp4){#id .class width=100% height=100%}
+
