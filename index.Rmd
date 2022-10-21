@@ -31,5 +31,5 @@ Drinking - [Revocup - Ethiopian Sidamo Natural](https://revocup.com)
 ![Structured illumination microscopy image of human retinal epithelial cells (RPE1) visualizing actin (grey/white), DNA (cyan), nucleoli (magenta), and nuclear pore complexes (yellow). ](./rep1_sim_03_SIR_ALX_PRJ_edits_merged.tif){#id .class width=100% height=100%}
 
 
-![Animation of single-cell RNA sequencing and spatial transcriptomics dataset mapped in UMAP space and x/y space from the tissue slice.](./Young3_UMAP_Slide_seq_animation_small.gif){#id .class width=100% height=100%}
+![Animation of spatial transcriptomics data, with single cells mapped in UMAP space and x/y space from the tissue slice.](./Young3_UMAP_Slide_seq_animation_small.gif){#id .class width=100% height=100%}
 
